@@ -1,0 +1,34 @@
+{
+  "hero_id": "hero-g01-patrick",
+
+  "rating": {
+    "overall": null,
+    "exploration": null,
+    "expedition": null,
+    "arena": null,
+    "bear_hunt": null,
+    "foundry": null,
+    "frostfire": null
+  },
+
+  "strengths": [],
+
+  "weaknesses": [],
+
+  "recommended_team": [],
+
+  "countered_by": [],
+
+  "strong_against": [],
+
+  "priority": {
+    "free_to_play": "",
+    "spender": ""
+  },
+
+  "notes": [],
+
+  "metadata": {
+    "status": "draft"
+  }
+}

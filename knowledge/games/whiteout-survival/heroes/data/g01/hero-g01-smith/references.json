@@ -1,0 +1,15 @@
+{
+  "hero_id": "hero-g01-smith",
+  "sources": [
+    {
+      "type": "Game",
+      "url": "",
+      "verified": false
+    },
+    {
+      "type": "Wiki",
+      "url": "https://www.whiteoutsurvival.wiki/heroes/",
+      "verified": false
+    }
+  ]
+}

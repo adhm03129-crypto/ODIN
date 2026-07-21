@@ -1,0 +1,16 @@
+{
+  "hero_id": "hero-g01-ling_xue",
+
+  "sources": [
+    {
+      "type": "Game",
+      "url": "",
+      "verified": false
+    },
+    {
+      "type": "Wiki",
+      "url": "https://www.whiteoutsurvival.wiki/heroes/",
+      "verified": false
+    }
+  ]
+}

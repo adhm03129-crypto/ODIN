@@ -1,0 +1,62 @@
+{
+  "id": "hero-g01-ling_xue",
+  "game": "whiteout-survival",
+
+  "identity": {
+    "name": "Ling Xue",
+    "generation": 1,
+    "rarity": "Epic",
+    "class": "Lancer",
+    "sub_class": "",
+    "gender": "",
+    "faction": "",
+    "title": ""
+  },
+
+  "profile": {
+    "description": "",
+    "lore": "",
+    "release": {
+      "generation": 1,
+      "game_version": ""
+    }
+  },
+
+  "skills": {
+    "exploration": [],
+    "expedition": [],
+    "passive": []
+  },
+
+  "stats": {
+    "base": {},
+    "max": {}
+  },
+
+  "exclusive_gear": {
+    "available": false,
+    "name": "",
+    "description": ""
+  },
+
+  "upgrade": {
+    "shards": {
+      "type": "",
+      "required": {}
+    },
+    "materials": []
+  },
+
+  "availability": {
+    "recruitment": [],
+    "events": [],
+    "special": []
+  },
+
+  "metadata": {
+    "status": "draft",
+    "verified": false,
+    "created": "2026-07-14",
+    "last_updated": "2026-07-14"
+  }
+}
