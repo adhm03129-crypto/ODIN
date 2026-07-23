@@ -1,0 +1,62 @@
+import { GameEvent } from "@/types/event";
+
+export const EVENTS_DATABASE: GameEvent[] = [
+  {
+    id: "evt-sunfire-castle",
+    name: "Sunfire Castle Battle",
+    category: "PvP",
+    frequency: "Bi-Weekly",
+    status: "Upcoming",
+    nextOccurrenceDays: 3,
+    description: "All alliance clans fight for control of the Sunfire Castle at the center of the world map. The alliance that holds the Castle for 4 continuous hours claims the Presidency.",
+    keyRewards: ["President Title & Buffs", "Supreme Minister Badges", "50,000 Gems", "Mythic Hero Shards"],
+    recommendedPreparation: [
+      "Pop 24-hour Attack & Defense boosts (+20%)",
+      "Ensure Infirmary capacity is clear",
+      "Assign 5 designated Rally Leaders with maxed Exclusive Gear",
+    ],
+    strategyGuideSlug: "sunfire-castle-domination-guide",
+  },
+  {
+    id: "evt-svs-phase",
+    name: "State vs State (SvS) Castle Battle",
+    category: "State vs State",
+    frequency: "Monthly",
+    status: "Upcoming",
+    nextOccurrenceDays: 12,
+    description: "Inter-server war where matched States invade each other's territory. Cross-server rallies, Castle occupations, and preparation point challenges.",
+    keyRewards: ["State Fire Crystal Rewards", "Supreme Governor Title", "Custom Castle Skin"],
+    recommendedPreparation: [
+      "Save all speedups and hero shards for Prep Phase",
+      "Organize alliance NAP Agreements for defense",
+    ],
+    strategyGuideSlug: "svs-prep-and-battle-mastery",
+  },
+  {
+    id: "evt-bear-hunt",
+    name: "Bear Hunt Trap",
+    category: "Alliance",
+    frequency: "Bi-Weekly",
+    status: "Live Now",
+    nextOccurrenceDays: 0,
+    description: "Alliance PVE event. Members launch endless rallies against the giant Bear Boss to stack total alliance damage within a 30-minute window.",
+    keyRewards: ["Hero Widgets", "Speedups", "Alliance Currency"],
+    recommendedPreparation: [
+      "Use 100% Marksman heavy rallies (5-10-85 ratio)",
+      "Set Alonso, Jeronimo, or Molly as primary rally leads",
+      "Join as many team rallies as possible",
+    ],
+    strategyGuideSlug: "bear-hunt-maximum-score-setup",
+  },
+  {
+    id: "evt-foundry-battle",
+    name: "Foundry Battle",
+    category: "Alliance",
+    frequency: "Bi-Weekly",
+    status: "Upcoming",
+    nextOccurrenceDays: 5,
+    description: "Structured 20v20 or 30v30 match inside a secluded battlefield map. Capture boiler stations and transport armaments.",
+    keyRewards: ["Refinement Stones", "Foundry Medals"],
+    recommendedPreparation: ["Establish Voice Comms", "Divide teams into North & South attack squads"],
+  },
+];

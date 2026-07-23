@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/alliance/page": "/alliance",
+  "/events/page": "/events",
+  "/heroes/[id]/page": "/heroes/[id]",
+  "/analytics/page": "/analytics",
+  "/items/page": "/items",
+  "/assistant/page": "/assistant",
+  "/buildings/page": "/buildings",
+  "/knowledge/[slug]/page": "/knowledge/[slug]",
+  "/knowledge/page": "/knowledge",
+  "/heroes/page": "/heroes",
+  "/page": "/",
+  "/pets/page": "/pets",
+  "/research/page": "/research",
+  "/resources/page": "/resources",
+  "/troops/page": "/troops",
+  "/state/page": "/state",
+  "/settings/page": "/settings"
+}

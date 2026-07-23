@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/alliance/page": "app/alliance/page.js",
+  "/events/page": "app/events/page.js",
+  "/heroes/[id]/page": "app/heroes/[id]/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/items/page": "app/items/page.js",
+  "/assistant/page": "app/assistant/page.js",
+  "/buildings/page": "app/buildings/page.js",
+  "/knowledge/[slug]/page": "app/knowledge/[slug]/page.js",
+  "/knowledge/page": "app/knowledge/page.js",
+  "/heroes/page": "app/heroes/page.js",
+  "/page": "app/page.js",
+  "/pets/page": "app/pets/page.js",
+  "/research/page": "app/research/page.js",
+  "/resources/page": "app/resources/page.js",
+  "/troops/page": "app/troops/page.js",
+  "/state/page": "app/state/page.js",
+  "/settings/page": "app/settings/page.js"
+}
